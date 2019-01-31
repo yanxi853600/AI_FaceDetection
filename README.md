@@ -7,7 +7,8 @@
   
  > 總共 6383 張照片，皆統一為 48*48 大小
   
-  ![avatar](/C:\Users/1.jpg)
+<img src="C:\Users\1.jpg"  width="100" height="100" />
+![Alt text](C:\Users\1.jpg )
 
  > 5107 張train , 1276張test
   
