@@ -7,7 +7,7 @@
   
  > 總共 6383 張照片，皆統一為 48*48 大小
   
-  ![avatar](/C:\Users\yanxi\OneDrive\桌面/1.jpg)
+  ![avatar](/C:\Users/1.jpg)
 
  > 5107 張train , 1276張test
   
