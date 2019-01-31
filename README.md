@@ -7,18 +7,20 @@
   
  > 總共 6383 張照片，皆統一為 48*48 大小
   
+## 資料分割_測試訓練集 (DataSplit_TrainTest) ##
 
  > 5107 張train , 1276張test
   
+## 分類 (Classification) ##
 
  > 將照片利用 one-hot-encoding 方法，分類為七種情緒
  
+## 模型訓練_CNN (TrainModel_CNN) ##
 
  > CNN 參數，最後 class_output 為七種情緒
- 
-
  > 模型訓練，準確率最高為 96.35% 
  
+## 驗證 () ##
 
  > 1275張做最後模型驗證
  
