@@ -7,8 +7,7 @@
   
  > 總共 6383 張照片，皆統一為 48*48 大小
   
-![image][a]
-[a]:data:C:\1.png;base64,iVBORw0KGgoAAAANSUhEUgAAAo8AAAGDCAIAAADF2G3KA
+![Alt text](C:\1.png "optional title")
 
  > 5107 張train , 1276張test
   
